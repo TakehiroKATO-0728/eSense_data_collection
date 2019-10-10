@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eSense_data_collection</string>
+    <string name="start_message">計測開始</string>
+    <string name="doing_message">計測中</string>
+    <string name="done_message">計測完了</string>
+    <string name="start_btn">START</string>
+    <string name="stop_btn">STOP</string>
+</resources>
